@@ -697,6 +697,10 @@ background: white;
 .img-fluid {
   max-width: 100%;
   height: auto;
+  border-radius: 10px;
+  -webkit-box-shadow: 5px 5px 16px 2px rgba(168,168,168,1);
+  -moz-box-shadow: 5px 5px 16px 2px rgba(168,168,168,1);
+  box-shadow: 5px 5px 16px 2px rgba(168,168,168,1);
 }
 
 .img-thumbnail {
